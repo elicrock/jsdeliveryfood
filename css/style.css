@@ -184,7 +184,7 @@ button {
 }
 
 .vegetables {
-  background: #FFF566 url(../img/promo/vegetables.png) no-repeat top 0 right 0 / 825px
+  background: #FFF566 url(../img/promo/vegetables.png) no-repeat top 0 right 0 / 850px
 }
 
 .sushi {
@@ -585,8 +585,8 @@ button {
   }
 
   .vegetables {
-    background-position: top 0 right -93px;
-    background-size: 820px;
+    background-position: top 0 right -150px;
+    background-size: 850px;
   }
 
   .sushi {
